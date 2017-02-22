@@ -19,7 +19,9 @@
 
 
     <style name="mytextviewstyle">
-        <item name="android:textColor">@color/mytextcolor</item>
+
+        <item name="android:textColor">@color/mytextcolorRed</item>
+
         <item name="android:textSize">24sp</item>
     </style>
 
