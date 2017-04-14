@@ -8,8 +8,7 @@ android:
   - extra-android-support
   - extra
   - extra-android-m2repository
-  
-  before_install:
+before_install:
  - chmod +x gradlew
-script:
+ script:
   - ./gradlew assembleDebug
