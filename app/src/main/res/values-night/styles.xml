@@ -21,7 +21,6 @@
     <style name="mytextviewstyle">
         <item name="android:textColor">@color/mytextcolorRed</item>
         <item name="android:textSize">34sp</item>
-
     </style>
 
 
